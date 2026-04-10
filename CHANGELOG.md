@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.1.3](https://github.com/rowanmanning/feed-parser/compare/v2.1.2...v2.1.3) (2026-03-27)
+
+
+### Bug Fixes
+
+* allow for feeds with many entities ([d27e62e](https://github.com/rowanmanning/feed-parser/commit/d27e62e41f9f101f630a5f3a3cc86c98a763fad5))
+
+## [2.1.2](https://github.com/rowanmanning/feed-parser/compare/v2.1.1...v2.1.2) (2026-02-21)
+
+
+### Bug Fixes
+
+* bump fast-xml-parser from 5.2.5 to 5.3.0 ([67e79cc](https://github.com/rowanmanning/feed-parser/commit/67e79ccc971fe4ee5723c27066d564167ec3ffc0))
+* bump fast-xml-parser from 5.3.0 to 5.3.5 ([47f89f0](https://github.com/rowanmanning/feed-parser/commit/47f89f0922a984f88e3cf3f92c0946d1b847bdcb))
+* bump js-yaml ([4b9a24c](https://github.com/rowanmanning/feed-parser/commit/4b9a24c46059bcbdf13cf4997555a22b21fec5e6))
+
 ## [2.1.1](https://github.com/rowanmanning/feed-parser/compare/v2.1.0...v2.1.1) (2025-06-25)
 
 
